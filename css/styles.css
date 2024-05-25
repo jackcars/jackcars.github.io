@@ -1,0 +1,11 @@
+/* CSS styles for the header */
+.header-jumbotron {
+  background-color: #007bff; /* Blue background color */
+  color: black; /* White text color */
+  padding: 20px; /* Add padding */
+}
+
+/* Center the text */
+.header-jumbotron h1 {
+  text-align: center;
+}
